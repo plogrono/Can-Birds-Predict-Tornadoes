@@ -1,1 +1,3 @@
-# Can-Birds-Predict-Tornadoes
+# Can Birds Predict Tornadoes?
+
+This was a group project for our Master's Program that Halyna and I decided to partake.  Our curiosity was derived from a segment on a Netflix show called "Connected".  In this segment, the host goes into details on how veeries, a type of songbird, are believed to predict hurricanes based on migration patterns.  We then came across a few articles about the topic, as well as an article contradicting this notion, but with tornadoes.  Therefore, we decided to investigate ourselves and merge two different datasets, one of tornadoes in the US, and one of bird calls in the US, to compare detections and see what we find!
